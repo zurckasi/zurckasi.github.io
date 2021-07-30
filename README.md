@@ -1,2 +1,2 @@
 # zurckasi.github.io
-## Essa página é um protótipo e será moelada com o tempo
+## Essa página é um protótipo e será remodelada com o tempo
